@@ -1,0 +1,9 @@
+C:\Users\Farna\Source\Repos\client\client\bin\Debug\client.exe.config
+C:\Users\Farna\Source\Repos\client\client\bin\Debug\client.exe
+C:\Users\Farna\Source\Repos\client\client\bin\Debug\client.pdb
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.Form1.resources
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.exe
+C:\Users\Farna\Source\Repos\client\client\obj\Debug\client.pdb

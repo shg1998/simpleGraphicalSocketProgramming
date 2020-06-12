@@ -1,0 +1,6 @@
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\bin\Debug\socketProgramming.exe.config
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\bin\Debug\socketProgramming.exe
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\bin\Debug\socketProgramming.pdb
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\obj\Debug\socketProgramming.csprojAssemblyReference.cache
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\obj\Debug\socketProgramming.exe
+C:\Users\Farna\Source\Repos\socketProgramming\socketProgramming\obj\Debug\socketProgramming.pdb
